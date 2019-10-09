@@ -73,7 +73,7 @@ menu.reset();
 menu.write('Twitter Tool\n');
 menu.write('-------------------------\n');
 
-menu.add('ADD TRANSACTION INVOICE');
+menu.add('Post Tweet');
 menu.add('BUSINESS INTELLIGENCE');
 menu.add('ACCOUNTS PAYABLE');
 menu.add('LEDGER BOOKINGS');
